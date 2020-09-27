@@ -10,3 +10,5 @@ goal_status로 turtlebot이 경로를 향해 주행중인지, 도착했는지 �
 도착한 후, ar_marker의 좌표값을 받아 일정 거리 안으로 docking을 하여 끝이납니다.
 
 카메라가 느린 문제를 해결하지 못하여 정확한 docking 알고리즘을 적용하지 못하였습니다.
+
+https://youtu.be/c2nB5ikgsRs
